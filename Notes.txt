@@ -1,0 +1,45 @@
+Away Crew
+
+Day / Night cycle
+
+Materials needed:
+-power
+-metal
+-silicon
+-food
+
+Mothership subsystems (each costs x power to operate for one day):
+-thrusters (keeps ship from crashing into the planet)
+-life support (produces o2)
+-3D printing (creates equipment, weapons, armor, robots)
+-science lab (researches upgrades, alien secrets)
+-med bay (heals wounded crew)
+-signal booster (allows player to communicate with away team in adverse radio conditions)
+
+Crew Classes:
+-Engineer
+-Security
+-Scientist
+
+Generic Skills that will be randomized for each crew member:
+-Perception
+-Problem Solving
+-Medicine
+-Stealth
+-Strength (carrying capacity and feats of strength)
+-Combat
+-Science (Scientist only)
+
+Class-specific skills:
+Engineer: 
+-Field Repair (attempts to fix broken equipment, robots)
+Security:
+-Combat Expert (bonus to combat skill)
+Scientist:
+-Field Medic (bonus to medicine skill)
+-Research (attempts to make a Science check to reveal more information)
+
+skills will be added up and checked against a certain difficulty to determine wither the action passed / failed (possible degrees of succcess/failure)
+
+Can send anywhere from 1-4 crew members to planet surface
+Can send to one of multiple regions (Desert, Forest, Mountains, Islands)
